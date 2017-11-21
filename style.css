@@ -79,3 +79,15 @@
 	top: 146px; 
 	left: 237px;
 }
+
+#CO {
+	position: absolute;
+	top: 243px;
+	left: 257px;
+}
+
+#NM {
+	position: absolute; 
+	top: 335px;
+	left: 240px;
+}
