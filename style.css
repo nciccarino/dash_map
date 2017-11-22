@@ -84,18 +84,21 @@
 	position: absolute;
 	top: 243px;
 	left: 257px;
+	z-index: 1;
 }
 
 #NM {
 	position: absolute; 
 	top: 335px;
 	left: 240px;
+	z-index: 1;
 }
 
 #HI {
 	position: absolute;
 	top: 516px;
 	left: 241px;
+	z-index: 1;
 }
 
 #TX {
@@ -180,6 +183,7 @@
 	position: absolute;
 	top: 117px;
 	left: 550px; 
+	z-index: 1; 
 }
 
 #MI {
@@ -240,12 +244,14 @@
 	position: absolute;
 	top: 206px;
 	left: 695px;
+	z-index: 1; 
 }
 
 #WV {
 	position: absolute;
 	top: 238px;
 	left: 746px;
+	z-index: 1; 
 }
 
 #VA {
