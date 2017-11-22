@@ -181,3 +181,27 @@
 	top: 117px;
 	left: 550px; 
 }
+
+#MI {
+	position: absolute;
+	top: 98px;
+	left: 591px;
+}
+
+#IN {
+	position: absolute;
+	top: 226px;
+	left: 645px; 
+}
+
+#KY {
+	position: absolute;
+	top: 288px;
+	left: 627px;
+}
+
+#TN {
+	position: absolute;
+	top: 336px;
+	left: 611px; 
+}
