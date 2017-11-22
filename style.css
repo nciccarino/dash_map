@@ -121,3 +121,21 @@
 	top: 204px;
 	left: 358px;
 }
+
+#SD {
+	position: absolute;
+	top: 137px;
+	left: 362px;
+}
+
+#ND {
+	position: absolute;
+	top: 66px;
+	left: 367px; 
+}
+
+#MN {
+	position: absolute;
+	top: 65px;
+	left: 477px;
+}
